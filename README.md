@@ -5,14 +5,18 @@ Inspired by [Jia-Bin Huang](https://jbhuang0604.github.io/)'s "[CV of Failures](
 Jia-Bin Huang mentioned the concept of a CV of Failures in his "[awesome-tips](https://github.com/jbhuang0604/awesome-tips)" series, specifically in the "[How to cope with paper rejection?](https://x.com/jbhuang0604/status/1443248831102136333)".
 
 On dealing with rejection:
-![how to cope with paper rejection?](asset/tweet-Huang-01.png)
+
+<img src="asset/tweet-Huang-01.png" width="350">
+
 He emphasied this idea in a thread about the importance of sharing failures:
 > *Maintain a CV of failures!*
 > You failed because you tried! Create a CV of failures to normalize all these setbacks.
+>
 > <img src="asset/meme.gif" width="350"> 
 
 He also said about failure in 2020:
-![keep a CV of failur](asset/tweet-Huang-02.png)
+
+<img src="asset/tweet-Huang-02.png" width="350">
 
 
 
