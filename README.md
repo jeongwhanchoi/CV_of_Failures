@@ -1,4 +1,5 @@
 # CV of Failures
+![GitHub Repo stars](https://img.shields.io/github/stars/jeongwhanchoi/CV_of_Failures) ![Twitter Follow](https://img.shields.io/twitter/follow/jeongwhan_choi?style=social) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongwhanchoi%2FCV_of_Failures&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Inspired by [Jia-Bin Huang](https://jbhuang0604.github.io/)'s "[CV of Failures](https://jbhuang0604.github.io/Huang_CV_Failure.pdf)" concept, this repository contains my own Curriculum Vitae of Failures. It documents rejections, setbacks, and unsuccessful attempts in my academic journey.
 
