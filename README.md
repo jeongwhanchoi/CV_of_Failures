@@ -31,3 +31,9 @@ The main document in this repository is `CV_of_Failures.pdf`, which contains my 
 While this is a personal document, I welcome discussions about the concept of failure CVs. Feel free to open an issue if you'd like to share your thoughts or experiences.
 
 As Huang suggested, sharing our failures can be a **"(tiny) contribution to academics"** by helping others feel better about their own setbacks. In this spirit, I hope that by sharing my personal failures, this CV can help normalise the struggles and make academia more open and resilent.
+
+---
+
+## Ohter Useful Links
+- [Research statistics about Xovee's research](https://www.xoveexu.com/stats#)
+- [Dealing with academic rejection written by Eric Gilbert](http://eegilbert.org/posts/rejection/)
