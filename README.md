@@ -9,7 +9,7 @@ On dealing with rejection:
 
 <img src="asset/tweet-Huang-01.png" width="350">
 
-He emphasied this idea in a thread about the importance of sharing failures:
+He emphasized this idea in a thread about the importance of sharing failures:
 > *Maintain a CV of failures!*
 > You failed because you tried! Create a CV of failures to normalize all these setbacks.
 >
